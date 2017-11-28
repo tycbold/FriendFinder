@@ -2,7 +2,7 @@
   "name": "friendfinder",
   "version": "1.0.0",
   "description": "friendfinder app for homework",
-  "main": "index.js",
+  "main": "home.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
